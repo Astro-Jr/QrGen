@@ -57,12 +57,12 @@ a{
   align-items: center;
   justify-content: center;
   border: 1px solid #414866;
+  background: #fff !important;
 }
 
 #qr-code img, #qr-code canvas{
   max-width: 100% !important;
   max-height: 100% !important;
-  background: #fff !important;
 }
 
 .row{
