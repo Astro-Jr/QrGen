@@ -4,7 +4,7 @@
 }
 
 body{
-  font-family: "Ubuntu", sans-serif;
+  font-family: sans-serif;
   max-width: 500px;
   height: 100vh;
   margin: 0 auto;
@@ -26,6 +26,7 @@ input[type="color"]{
   border: none;
   width: 32.5%;
   height: 40px;
+  outline: none;
   border-radius: 3px;
 }
 
@@ -51,6 +52,7 @@ a{
   margin: 0.5rem 0 1rem 0;
   color: #fff;
   outline: none;
+  font-family: "Ubuntu" , sans-serif;
 }
 
 .qr-text::placeholder{
@@ -112,6 +114,7 @@ a{
 
 .share-btn{
   margin-left: 0.7rem;
+  letter-spacing: 2px;
 }
 
 .action-container{
@@ -144,6 +147,7 @@ a{
   .share-btn{
       margin-left: 0;
       margin-top: 0.7rem;
+      letter-spacing:1.5px;
   }
 }
 
