@@ -97,7 +97,8 @@ a{
   padding: 14px;
   background: rgb(106, 43, 255);
   border-radius: 4px;
-  border: none;
+  border: 1px solid #000;
+  
   display: flex;
   align-items: center;
   justify-content: center;
