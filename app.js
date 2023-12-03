@@ -1,3 +1,5 @@
+export const api = "4be535bd6203471b83af764fd58c65fb";
+
 const download = document.querySelector(".download");
 const dark = document.querySelector(".dark");
 const light = document.querySelector(".light");
